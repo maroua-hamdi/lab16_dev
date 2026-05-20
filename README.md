@@ -52,21 +52,20 @@ Le chronomètre commence à 00:00 puis continue à compter le temps.
 
 
 La structure générale du projet est la suivante :
----
 
+```text
 app/
- └── src/
-     └── main/
-         ├── java/
-         │   └── package_name/
-         │       ├── MainActivity.java
-         │       └── ChronometerService.java
-         ├── res/
-         │   └── layout/
-         │       └── activity_main.xml
-         └── AndroidManifest.xml
-
----
+└── src/
+    └── main/
+        ├── java/
+        │   └── package_name/
+        │       ├── MainActivity.java
+        │       └── ChronometerService.java
+        ├── res/
+        │   └── layout/
+        │       └── activity_main.xml
+        └── AndroidManifest.xml
+```
 
 ## 5. Étapes de réalisation
 
