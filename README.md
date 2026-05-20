@@ -50,7 +50,9 @@ Le chronomètre commence à 00:00 puis continue à compter le temps.
 
 ## 4. Structure du projet
 
+
 La structure générale du projet est la suivante :
+---
 
 app/
  └── src/
